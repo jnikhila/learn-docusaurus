@@ -12,9 +12,14 @@ Each project in this repository is a standalone example of a specific use case o
 
 ## Featured Projects
 
-* my-docs-website: An introductory docs-only project to help you get up and running with Docusaurus Docs-only mode.
-* theme-customization: Demonstrates how to customize the look and feel of a Docusaurus site. - Coming Soon
-* versioning-docs: An example of handling documentation versioning with Docusaurus.- Coming Soon
+* **my-docs-website**: An introductory docs-only project to help you get up and running with Docusaurus Docs-only mode.
+
+##  Upcoming Projects
+
+These projects are currently in development and will be available soon:
+
+* **theme-customization**: Demonstrates how to customize the look and feel of a Docusaurus site.
+* **versioning-docs**: An example of handling documentation versioning with Docusaurus.
 
 ## Getting Started
 
@@ -47,7 +52,13 @@ To get started with Docusaurus learning journey, follow these steps:
 
 ## Contributing
 
-Contributions to this repository are welcome! If you have a Docusaurus project or an example that you believe would be beneficial to others, please feel free to fork this repository, add your project, and submit a pull request.
+Contributions to this repository are welcome! Whether you're interested in adding your own Docusaurus project, improving existing examples, or providing feedback, your input is valuable.
+
+### Future Projects and Community Requests
+
+We have more projects on the way! If you have specific use cases or features in Docusaurus you'd like to see explored, feel free to start a conversation. Your suggestions and requests are welcome, as they can help shape future examples and contribute to this learning resource. To propose an idea or request a new example, please [open an issue](https://github.com/jnikhila/learn-docusaurus/issues) in this repository.
+
+If you have a Docusaurus project or an example that you believe would be beneficial to others, please feel free to fork this repository, add your project, and submit a pull request.
 
 ## License
 
