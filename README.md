@@ -12,7 +12,7 @@ Each project in this repository is a standalone example of a specific use case o
 
 ## Featured Projects
 
-* **my-docs-website**: An introductory docs-only project to help you get up and running with Docusaurus Docs-only mode.
+* **my-docs-website**: An introductory docs-only project to help you get started with Docusaurus Docs-only mode.
 
 ##  Upcoming Projects
 
