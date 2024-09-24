@@ -43,7 +43,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/jnikhila/learn-docusaurus',
         },
         blog: false,
         theme: {
@@ -61,7 +61,7 @@ const config = {
       navbar: {
         items: [
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/jnikhila/learn-docusaurus',
             label: 'GitHub',
             position: 'right',
           },
